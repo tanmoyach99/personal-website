@@ -66,11 +66,11 @@ section{
     color: white;
     padding: 10px 20px;
     border-radius: 0px 15px ;
-    box-shadow: inset 12px -22px 2px -12px blueviolet;
+    box-shadow: inset 12px -22px 2px -12px yellow;
     cursor: crosshair;
     display: inline-block;
 
-    background-color: darkturquoise;
+    background-color: red;
 }
 .button-design:hover{
    background-color:green;
@@ -80,7 +80,7 @@ section{
     color: white;
     padding: 10px 20px;
     border-radius: 0px 15px ;
-    box-shadow: inset 12px -22px 2px -12px yellowgreen;
+    box-shadow: inset 12px -22px 2px -12px yellow;
     cursor: crosshair;
     display: inline-block;
 
